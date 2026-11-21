@@ -12,3 +12,4 @@
 - [ ] The project has a release or a usable build.
 - [ ] The project doesn't host ROMs or retail game files, and doesn't need leaked SDKs or cracked software to build.
 - [ ] This pull request adds one project.
+- [ ] If I used AI tools for this pull request, I said so above and checked the entry myself.

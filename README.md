@@ -19,6 +19,7 @@
 - [Online Services](#online-services)
 - [Development](#development)
 - [Community](#community)
+- [AI Disclosure](#ai-disclosure)
 
 ## Getting Started
 
@@ -179,6 +180,10 @@ Native ports built from decompilation and recompilation projects. Each one needs
 - [r/3dshacks](https://www.reddit.com/r/3dshacks/) - Subreddit for 3DS homebrew and custom firmware.
 - [GBAtemp](https://gbatemp.net) - Forum with release threads for most 3DS homebrew.
 - [Universal-DB on GitHub](https://github.com/Universal-Team/db) - Where homebrew gets submitted to Universal-DB.
+
+## AI Disclosure
+
+This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I've tried a good portion of them. I'm not affiliated with any of these projects. I'm just a fan.
 
 ## Contributing
 

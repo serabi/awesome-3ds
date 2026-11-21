@@ -21,6 +21,12 @@ Not sure how to edit the list yourself? [Open a suggestion issue](https://github
 - Add new entries at the bottom of their section.
 - One project per pull request, please.
 
+## AI tools
+
+You're welcome to use AI tools to find projects or write your pull request. Please say so in the pull request, and check the link, description and section yourself before you open it.
+
+Projects built with AI tools can be listed. Like any other project they need to have a release or usable build available.
+
 ## What fits
 
 - Homebrew that runs on the 3DS family, plus tools and resources for it.
