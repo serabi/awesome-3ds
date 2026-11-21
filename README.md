@@ -43,7 +43,7 @@
 
 ### Console Classics
 
-Native ports built from decompilation and recompilation projects. Each one needs a dump of the original game.
+Native ports built from decompilation and recompilation projects.
 
 - [Emerald 3DS](https://github.com/ZallaxDev/emerald-3ds) - Pokemon Emerald rebuilt as a fully 3D world with stereoscopic 3D and seven languages.
 - [The Minish Cap 3DS](https://github.com/EstebanPdN/zelda-tmc-3ds) - The Legend of Zelda: The Minish Cap with dual-screen play.
@@ -183,7 +183,9 @@ Native ports built from decompilation and recompilation projects. Each one needs
 
 ## AI Disclosure
 
-This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I've tried a good portion of them. I'm not affiliated with any of these projects. I'm just a fan.
+This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I've tried a good portion of them.
+
+I'm not affiliated with any of these projects. I do run [Just One More Catch!](https://justonemorecatch.app), a tracker for retro Pokémon playthroughs from Game Boy to 3DS ([source on GitHub](https://github.com/Interactive-Buffoonery/just-one-more-catch)).
 
 ## Contributing
 
