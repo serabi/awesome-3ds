@@ -1,0 +1,48 @@
+name: Suggest a project
+description: Recommend a homebrew game, app or tool for the list.
+title: "Add "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: The source repository, or the release page if there's no source.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it?
+      description: One or two sentences about what it does.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Getting Started
+        - Custom Firmware
+        - Game Ports
+        - Mods and Patches
+        - Apps
+        - Save Management
+        - Customization
+        - Emulators
+        - Online Services
+        - Development
+        - Community
+        - Not sure
+  - type: checkboxes
+    id: console
+    attributes:
+      label: Console support
+      options:
+        - label: It needs a New 3DS, New 3DS XL or New 2DS XL.
