@@ -134,6 +134,7 @@ Native ports built from decompilation and recompilation projects.
 - [DSSH](https://github.com/Fishason/DSSH) - SSH client.
 - [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) - Runs Scratch projects.
 - [ftpd](https://github.com/mtheall/ftpd) - FTP server for moving files over Wi-Fi.
+- [ControlMole](https://github.com/skrimby1/controlmole-3ds) - Play time limiter with a Luma3DS plugin that pauses games at your daily limit or bedtime. A cute mole tracks your screentime and tells you to go to bed when needed.
 
 ## Save Management
 
