@@ -90,6 +90,7 @@ Native ports built from decompilation and recompilation projects.
 - [Raptor](https://github.com/RetroGamer02/raptor-consoles) - Call of the Shadows, rebuilt from reverse-engineered source.
 - [Freeciv 3DS](https://github.com/infosecanalyst-creator/freeciv-3ds) - An open-source empire-building strategy game, with a touch map and stereoscopic 3D.
 - [Micropolis 3DS](https://github.com/infosecanalyst-creator/micropolis-3ds) - An open-source SimCity with a touch-screen builder and a stereoscopic 3D city (New 3DS only).
+- [Mutiny 3DS](https://github.com/EstebanPdN/mutiny-3ds) - Nitrome's turn-based pirate artillery game, with a two-screen touch interface.
 
 ### Shooters
 
