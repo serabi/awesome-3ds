@@ -88,6 +88,7 @@ Native ports built from decompilation and recompilation projects.
 - [Bugdom](https://github.com/carrotcreamsoup/Bugdom) - Pangea Software's 3D platformer.
 - [Cro-Mag Rally](https://github.com/carrotcreamsoup/CroMagRally) - Pangea Software's kart racer.
 - [Raptor](https://github.com/RetroGamer02/raptor-consoles) - Call of the Shadows, rebuilt from reverse-engineered source.
+- [Freeciv 3DS](https://github.com/infosecanalyst-creator/freeciv-3ds) - An open-source empire-building strategy game, with a touch map and stereoscopic 3D.
 
 ### Shooters
 
