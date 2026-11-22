@@ -119,6 +119,7 @@ Native ports built from decompilation and recompilation projects.
 - [CTGP-7](https://ctgp-7.github.io) - Mario Kart 7 modpack with new tracks, characters and online play.
 - [Minecraft Old 3DS Patcher](https://github.com/s4ammy/3DSMinecraft) - Patches Minecraft: New Nintendo 3DS Edition to run on the Old 3DS.
 - [Multi-Pokemon Framework](https://github.com/semaj14/Multi-PokemonFramework) - Plugin for the generation 6 and 7 Pokemon games.
+- [pk3DS](https://github.com/kwsch/pk3DS) - Windows editor and randomizer for the generation 6 and 7 Pokemon games.
 
 ## Apps
 
