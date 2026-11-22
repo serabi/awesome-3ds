@@ -26,6 +26,7 @@
 - [3DS Hacks Guide](https://3ds.hacks.guide) - Step-by-step guide from a stock console to custom firmware.
 - [Universal-DB](https://db.universal-team.net) - Searchable database of 3DS and DS homebrew.
 - [Universal-Updater](https://github.com/Universal-Team/Universal-Updater) - On-console store that installs and updates homebrew from Universal-DB.
+- [Forge Store](https://github.com/EstebanPdN/forge.store) - On-console store for community homebrew that includes access to EstebanPdN's various 3DS game ports.
 
 ## Custom Firmware
 
