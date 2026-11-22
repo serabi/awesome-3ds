@@ -124,6 +124,7 @@ Native ports built from decompilation and recompilation projects.
 - [Minecraft Old 3DS Patcher](https://github.com/s4ammy/3DSMinecraft) - Patches Minecraft: New Nintendo 3DS Edition to run on the Old 3DS.
 - [Multi-Pokemon Framework](https://github.com/semaj14/Multi-PokemonFramework) - Plugin for the generation 6 and 7 Pokemon games.
 - [pk3DS](https://github.com/kwsch/pk3DS) - Windows editor and randomizer for the generation 6 and 7 Pokemon games.
+- [Minecraft 3DS Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) - Universal-Updater store of community mods, maps, skins and texture packs for Minecraft: New Nintendo 3DS Edition.
 
 ## Apps
 
