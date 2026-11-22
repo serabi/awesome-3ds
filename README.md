@@ -164,6 +164,7 @@ Native ports built from decompilation and recompilation projects.
 - [DaedalusX64 3DS](https://github.com/masterfeizz/DaedalusX64-3DS) - Nintendo 64 emulator.
 - [ScummVM](https://github.com/scummvm/scummvm) - Engine for classic point-and-click adventure games.
 - [DOSBox 3DS](https://github.com/MrHuu/dosbox-3ds) - DOS emulator.
+- [PokeDaisy](https://github.com/lidor30/pokedaisy) - Game Boy, Game Boy Color and GBA player that started on Android, but now is running on 3DS! Its live companion for Pokemon games runs on the bottom screen and works with some ROM hacks.
 
 ### On Other Platforms
 
