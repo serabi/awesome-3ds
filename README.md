@@ -136,7 +136,7 @@ Native ports built from decompilation and recompilation projects.
 - [sound3ds](https://github.com/PeppiDev/sound3ds) - SoundCloud and local music player.
 - [ctrmus](https://github.com/deltabeard/ctrmus) - Music player for common audio formats.
 - [Video Player for 3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS) - Plays MP4 and other video files.
-- [3dslibris](https://github.com/RigleGit/3dslibris) - Ebook and manga reader.
+- [3dslibris](https://github.com/RigleGit/3dslibris) - Ebook and manga reader that opens EPUB, MOBI, PDF, CBZ and other formats.
 - [TinyVNC](https://github.com/badda71/TinyVNC) - VNC viewer.
 - [DSSH](https://github.com/Fishason/DSSH) - SSH client.
 - [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) - Runs Scratch projects.
