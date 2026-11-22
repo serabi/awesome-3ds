@@ -116,6 +116,7 @@ Native ports built from decompilation and recompilation projects.
 - [Sonic Robo Blast 2](https://github.com/derrekr/srb2_3ds) - 3D Sonic fan game (New 3DS only).
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic client written from scratch in C.
 - [Craftus Reloaded](https://github.com/RSDuck/craftus_reloaded) - Minecraft-style voxel sandbox.
+- [Legend of Doom 3DS](https://github.com/EstebanPdN/legend-of-doom-3ds) - First-person Zelda adventure on GZDoom (New 3DS only).
 
 ## Mods and Patches
 
