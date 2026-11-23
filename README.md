@@ -19,6 +19,7 @@
 - [Online Services](#online-services)
 - [Development](#development)
 - [Community](#community)
+- [Archived](#archived)
 - [AI Disclosure](#ai-disclosure)
 
 ## Getting Started
@@ -80,7 +81,6 @@ Native ports built from decompilation and recompilation projects.
 - [REGTA](https://github.com/Epic0522/REGTA-3DSPort-Complete) - GTA III, Vice City and Liberty City Stories (New 3DS only).
 - [OpenRCT2 3DS](https://github.com/UhtredOfBamburg/OpenRCT2-3DS) - RollerCoaster Tycoon 2 with a dual-screen layout.
 - [3D Pinball Space Cadet](https://github.com/MaikelChan/SpaceCadetPinball/tree/3ds) - The Windows pinball table.
-- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste.
 - [Pixel Dungeon 3DS](https://github.com/deathbygin/pixeldungeon-3ds) - The roguelike Pixel Dungeon.
 - [SCP Containment Breach 3DS](https://github.com/RedHairHobitGoblin/scpcb3ds) - Unofficial port of SCP - Containment Breach.
 - [Bugdom](https://github.com/carrotcreamsoup/Bugdom) - Pangea Software's 3D platformer.
@@ -191,6 +191,14 @@ Native ports built from decompilation and recompilation projects.
 - [r/3dshacks](https://www.reddit.com/r/3dshacks/) - Subreddit for 3DS homebrew and custom firmware.
 - [GBAtemp](https://gbatemp.net) - Forum with release threads for most 3DS homebrew.
 - [Universal-DB on GitHub](https://github.com/Universal-Team/db) - Where homebrew gets submitted to Universal-DB.
+
+## Archived
+
+GitHub repositories that are archived but still have a downloadable release.
+
+- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste.
+- [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) - Doki Doki Literature Club rewritten in Lua.
+- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - Friday Night Funkin' demake.
 
 ## AI Disclosure
 
