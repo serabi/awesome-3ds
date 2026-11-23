@@ -202,7 +202,7 @@ GitHub repositories that are archived but still have a downloadable release.
 
 ## AI Disclosure
 
-This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I've tried a good portion of them.
+This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I (or one of my kids) have tried a decent portion of them.
 
 I'm not affiliated with any of these projects. I do run [Just One More Catch!](https://justonemorecatch.app), a tracker for retro Pokémon playthroughs from Game Boy to 3DS ([source on GitHub](https://github.com/Interactive-Buffoonery/just-one-more-catch)).
 
