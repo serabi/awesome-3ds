@@ -51,9 +51,8 @@ Native ports built from decompilation and recompilation projects.
 - [A Link to the Past 3DS](https://github.com/EstebanPdN/zelda-alttp-3ds) - The Legend of Zelda: A Link to the Past, based on zelda3.
 - [Ocarina of Time 3DS](https://github.com/Andresac90/OOT-64-3DS-Port) - The N64 version of Ocarina of Time, built from source.
 - [soh-3ds](https://github.com/999sian/soh-3ds) - Experimental Ship of Harkinian port of Ocarina of Time.
-- [Super Mario 64 3DS](https://github.com/sm64-port/sm64_3ds) - The original Super Mario 64 port.
+- [Super Mario 64 3DS](https://github.com/sm64-port/sm64_3ds) - The original Super Mario 64 port. Unmaintained.
 - [Super Mario 64 3DS Port Ultimate](https://github.com/Epic0522/Super-Mario-64-3ds-port---Ultimate) - Super Mario 64 with extra effects and performance tuning.
-- [SM64DS Enhanced](https://github.com/ethanseagull/sm64ds-enhanced) - Super Mario 64 DS rebuilt natively with enhancements.
 - [Mario Kart 64 3DS](https://github.com/EstebanPdN/mario-kart-64-3ds) - Mario Kart 64 with settings for both Old and New 3DS.
 - [Mario Kart Wii DS](https://github.com/ethanseagull/MarioKartWiiDS) - Mario Kart Wii converted from your own disc.
 - [Star Haven](https://github.com/SecondaryLifer/StarHaven) - Paper Mario (N64), with save import from cartridge and emulators.
@@ -68,7 +67,7 @@ Native ports built from decompilation and recompilation projects.
 - [FF9 3DS](https://github.com/maurizi/ff9-3ds) - Final Fantasy IX (PS1), built from the ff9-decomp project.
 - [Sonic Mania 3DS](https://github.com/SaturnSH2x2/RSDKv5-Decompilation) - Sonic Mania on the RSDKv5 decompilation (New 3DS only).
 - [Sonic CD 3DS Redux](https://github.com/Voxel9/Sonic-CD-11-3DS-Redux) - Sonic CD (2011) on its decompilation.
-- [Sonic 1 and 2 3DS](https://github.com/JeffRuLz/Sonic-1-2-2013-Decompilation) - Sonic 1 and 2 (2013) on their decompilation (New 3DS only).
+- [Sonic 1 and 2 3DS](https://github.com/JeffRuLz/Sonic-1-2-2013-Decompilation) - Sonic 1 and 2 (2013) on their decompilation (New 3DS only). Unmaintained.
 
 ### PC and Indie Games
 
@@ -81,8 +80,7 @@ Native ports built from decompilation and recompilation projects.
 - [REGTA](https://github.com/Epic0522/REGTA-3DSPort-Complete) - GTA III, Vice City and Liberty City Stories (New 3DS only).
 - [OpenRCT2 3DS](https://github.com/UhtredOfBamburg/OpenRCT2-3DS) - RollerCoaster Tycoon 2 with a dual-screen layout.
 - [3D Pinball Space Cadet](https://github.com/MaikelChan/SpaceCadetPinball/tree/3ds) - The Windows pinball table.
-- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste.
-- [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) - Doki Doki Literature Club rewritten in Lua.
+- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste. Archived.
 - [Pixel Dungeon 3DS](https://github.com/deathbygin/pixeldungeon-3ds) - The roguelike Pixel Dungeon.
 - [SCP Containment Breach 3DS](https://github.com/RedHairHobitGoblin/scpcb3ds) - Unofficial port of SCP - Containment Breach.
 - [Bugdom](https://github.com/carrotcreamsoup/Bugdom) - Pangea Software's 3D platformer.
@@ -94,12 +92,12 @@ Native ports built from decompilation and recompilation projects.
 
 ### Shooters
 
-- [Xash3DS](https://github.com/masterfeizz/Xash3DS) - Half-Life on the Xash3D engine.
-- [ctrQuake](https://github.com/masterfeizz/ctrQuake) - Quake, with the shareware episode included.
-- [Quake2CTR](https://github.com/masterfeizz/Quake2CTR) - Quake II.
-- [ioQuake3DS](https://github.com/masterfeizz/ioQuake3DS) - Quake III Arena on ioquake3.
-- [PrBoom+ 3DS](https://github.com/Voxel9/PrBoom-Plus-3DS) - Doom source port.
-- [ctrHexenII](https://github.com/Rinnegatamante/ctrHexenII) - Hexen II.
+- [Xash3DS](https://github.com/masterfeizz/Xash3DS) - Half-Life on the Xash3D engine. Unmaintained.
+- [ctrQuake](https://github.com/masterfeizz/ctrQuake) - Quake, with the shareware episode included. Unmaintained.
+- [Quake2CTR](https://github.com/masterfeizz/Quake2CTR) - Quake II. Unmaintained.
+- [ioQuake3DS](https://github.com/masterfeizz/ioQuake3DS) - Quake III Arena on ioquake3. Unmaintained.
+- [PrBoom+ 3DS](https://github.com/Voxel9/PrBoom-Plus-3DS) - Doom source port. Unmaintained.
+- [ctrHexenII](https://github.com/Rinnegatamante/ctrHexenII) - Hexen II. Unmaintained.
 - [DXX 3DS](https://github.com/iNdioNicarao/dxx-3ds) - Descent with hardware rendering and stereoscopic 3D (New 3DS only).
 - [Postal 1 3DS](https://github.com/Taifuoguru/Postal-1-3DS) - Work-in-progress port of Postal.
 - [Nazi Zombies: Portable](https://github.com/nzp-team/nzportable) - Call of Duty: Zombies demake on Quake engines.
@@ -110,12 +108,11 @@ Native ports built from decompilation and recompilation projects.
 - [Geometry Dash 3DS](https://github.com/AleFunky/gd3ds) - Geometry Dash, including custom levels.
 - [Papa's Pizzeria 3DS](https://github.com/zylonity/PapasPizzeria-n3DS) - Flipline Studios' pizza restaurant game.
 - [Doors 3DS](https://github.com/Doors-3ds-Development-Team/Doors-3DS) - Demake of the Roblox horror game Doors.
-- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - Friday Night Funkin' demake.
 - [TheXTech](https://github.com/TheXTech/TheXTech) - Super Mario Bros. X engine rewritten in C++.
 - [Super Haxagon](https://github.com/RedTopper/Super-Haxagon) - Super Hexagon clone.
 - [Sonic Robo Blast 2](https://github.com/derrekr/srb2_3ds) - 3D Sonic fan game (New 3DS only).
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic client written from scratch in C.
-- [Craftus Reloaded](https://github.com/RSDuck/craftus_reloaded) - Minecraft-style voxel sandbox.
+- [Craftus Reloaded](https://github.com/RSDuck/craftus_reloaded) - Minecraft-style voxel sandbox. Unmaintained.
 - [Legend of Doom 3DS](https://github.com/EstebanPdN/legend-of-doom-3ds) - First-person Zelda adventure on GZDoom (New 3DS only).
 
 ## Mods and Patches
@@ -125,6 +122,7 @@ Native ports built from decompilation and recompilation projects.
 - [Multi-Pokemon Framework](https://github.com/semaj14/Multi-PokemonFramework) - Plugin for the generation 6 and 7 Pokemon games.
 - [pk3DS](https://github.com/kwsch/pk3DS) - Windows editor and randomizer for the generation 6 and 7 Pokemon games.
 - [Minecraft 3DS Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) - Universal-Updater store of community mods, maps, skins and texture packs for Minecraft: New Nintendo 3DS Edition.
+- [OoT3D Randomizer](https://github.com/gamestabled/OoT3D_Randomizer) - Item randomizer for Ocarina of Time 3D.
 
 ## Apps
 
@@ -142,6 +140,8 @@ Native ports built from decompilation and recompilation projects.
 - [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) - Runs Scratch projects.
 - [ftpd](https://github.com/mtheall/ftpd) - FTP server for moving files over Wi-Fi.
 - [ControlMole](https://github.com/skrimby1/controlmole-3ds) - Play time limiter with a Luma3DS plugin that pauses games at your daily limit or bedtime. A cute mole tracks your screentime and tells you to go to bed when needed.
+- [3DS-CLI](https://github.com/cmdada/3DS-CLI) - RISC-V Linux with a dual-screen terminal.
+- [NTR-HR](https://github.com/xzn/ntr-hr) - Streams the console to a PC at higher frame rates than stock NTR (New 3DS only).
 
 ## Save Management
 
@@ -162,7 +162,7 @@ Native ports built from decompilation and recompilation projects.
 - [mGBA](https://github.com/mgba-emu/mgba) - Game Boy Advance emulator.
 - [Snes9x for 3DS](https://github.com/matbo87/snes9x_3ds) - SNES emulator, maintained fork.
 - [Red Viper](https://github.com/skyfloogle/red-viper) - Virtual Boy emulator that uses the 3D screen.
-- [DaedalusX64 3DS](https://github.com/masterfeizz/DaedalusX64-3DS) - Nintendo 64 emulator.
+- [DaedalusX64 3DS](https://github.com/masterfeizz/DaedalusX64-3DS) - Nintendo 64 emulator. Unmaintained.
 - [ScummVM](https://github.com/scummvm/scummvm) - Engine for classic point-and-click adventure games.
 - [DOSBox 3DS](https://github.com/MrHuu/dosbox-3ds) - DOS emulator.
 - [PokeDaisy](https://github.com/lidor30/pokedaisy) - Game Boy, Game Boy Color and GBA player that started on Android, but now is running on 3DS! Its live companion for Pokemon games runs on the bottom screen and works with some ROM hacks.
@@ -175,6 +175,7 @@ Native ports built from decompilation and recompilation projects.
 ## Online Services
 
 - [Nimbus](https://github.com/PretendoNetwork/nimbus) - Connects the console to Pretendo Network, a replacement for Nintendo Network.
+- [NetPass](https://gitlab.com/3ds-netpass/netpass) - StreetPass over the internet through virtual locations.
 
 ## Development
 
@@ -183,6 +184,7 @@ Native ports built from decompilation and recompilation projects.
 - [citro2d](https://github.com/devkitPro/citro2d) - 2D drawing on top of citro3d.
 - [picaGL](https://github.com/masterfeizz/picaGL) - OpenGL implementation used by many ports.
 - [LovePotion](https://github.com/lovebrew/lovepotion) - LÖVE game framework for Nintendo homebrew.
+- [OpenDSP](https://github.com/Cellenseres/OpenDSP) - Open-source DSP firmware so homebrew can play audio without dumping dspfirm.cdc.
 
 ## Community
 
