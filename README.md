@@ -19,6 +19,7 @@
 - [Online Services](#online-services)
 - [Development](#development)
 - [Community](#community)
+- [Archived](#archived)
 - [AI Disclosure](#ai-disclosure)
 
 ## Getting Started
@@ -53,7 +54,6 @@ Native ports built from decompilation and recompilation projects.
 - [soh-3ds](https://github.com/999sian/soh-3ds) - Experimental Ship of Harkinian port of Ocarina of Time.
 - [Super Mario 64 3DS](https://github.com/sm64-port/sm64_3ds) - The original Super Mario 64 port.
 - [Super Mario 64 3DS Port Ultimate](https://github.com/Epic0522/Super-Mario-64-3ds-port---Ultimate) - Super Mario 64 with extra effects and performance tuning.
-- [SM64DS Enhanced](https://github.com/ethanseagull/sm64ds-enhanced) - Super Mario 64 DS rebuilt natively with enhancements.
 - [Mario Kart 64 3DS](https://github.com/EstebanPdN/mario-kart-64-3ds) - Mario Kart 64 with settings for both Old and New 3DS.
 - [Mario Kart Wii DS](https://github.com/ethanseagull/MarioKartWiiDS) - Mario Kart Wii converted from your own disc.
 - [Star Haven](https://github.com/SecondaryLifer/StarHaven) - Paper Mario (N64), with save import from cartridge and emulators.
@@ -81,8 +81,6 @@ Native ports built from decompilation and recompilation projects.
 - [REGTA](https://github.com/Epic0522/REGTA-3DSPort-Complete) - GTA III, Vice City and Liberty City Stories (New 3DS only).
 - [OpenRCT2 3DS](https://github.com/UhtredOfBamburg/OpenRCT2-3DS) - RollerCoaster Tycoon 2 with a dual-screen layout.
 - [3D Pinball Space Cadet](https://github.com/MaikelChan/SpaceCadetPinball/tree/3ds) - The Windows pinball table.
-- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste.
-- [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) - Doki Doki Literature Club rewritten in Lua.
 - [Pixel Dungeon 3DS](https://github.com/deathbygin/pixeldungeon-3ds) - The roguelike Pixel Dungeon.
 - [SCP Containment Breach 3DS](https://github.com/RedHairHobitGoblin/scpcb3ds) - Unofficial port of SCP - Containment Breach.
 - [Bugdom](https://github.com/carrotcreamsoup/Bugdom) - Pangea Software's 3D platformer.
@@ -110,7 +108,6 @@ Native ports built from decompilation and recompilation projects.
 - [Geometry Dash 3DS](https://github.com/AleFunky/gd3ds) - Geometry Dash, including custom levels.
 - [Papa's Pizzeria 3DS](https://github.com/zylonity/PapasPizzeria-n3DS) - Flipline Studios' pizza restaurant game.
 - [Doors 3DS](https://github.com/Doors-3ds-Development-Team/Doors-3DS) - Demake of the Roblox horror game Doors.
-- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - Friday Night Funkin' demake.
 - [TheXTech](https://github.com/TheXTech/TheXTech) - Super Mario Bros. X engine rewritten in C++.
 - [Super Haxagon](https://github.com/RedTopper/Super-Haxagon) - Super Hexagon clone.
 - [Sonic Robo Blast 2](https://github.com/derrekr/srb2_3ds) - 3D Sonic fan game (New 3DS only).
@@ -125,6 +122,7 @@ Native ports built from decompilation and recompilation projects.
 - [Multi-Pokemon Framework](https://github.com/semaj14/Multi-PokemonFramework) - Plugin for the generation 6 and 7 Pokemon games.
 - [pk3DS](https://github.com/kwsch/pk3DS) - Windows editor and randomizer for the generation 6 and 7 Pokemon games.
 - [Minecraft 3DS Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore) - Universal-Updater store of community mods, maps, skins and texture packs for Minecraft: New Nintendo 3DS Edition.
+- [OoT3D Randomizer](https://github.com/gamestabled/OoT3D_Randomizer) - Item randomizer for Ocarina of Time 3D.
 
 ## Apps
 
@@ -142,6 +140,8 @@ Native ports built from decompilation and recompilation projects.
 - [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere) - Runs Scratch projects.
 - [ftpd](https://github.com/mtheall/ftpd) - FTP server for moving files over Wi-Fi.
 - [ControlMole](https://github.com/skrimby1/controlmole-3ds) - Play time limiter with a Luma3DS plugin that pauses games at your daily limit or bedtime. A cute mole tracks your screentime and tells you to go to bed when needed.
+- [3DS-CLI](https://github.com/cmdada/3DS-CLI) - RISC-V Linux with a dual-screen terminal.
+- [NTR-HR](https://github.com/xzn/ntr-hr) - Streams the console to a PC at higher frame rates than stock NTR (New 3DS only).
 
 ## Save Management
 
@@ -175,6 +175,7 @@ Native ports built from decompilation and recompilation projects.
 ## Online Services
 
 - [Nimbus](https://github.com/PretendoNetwork/nimbus) - Connects the console to Pretendo Network, a replacement for Nintendo Network.
+- [NetPass](https://gitlab.com/3ds-netpass/netpass) - StreetPass over the internet through virtual locations.
 
 ## Development
 
@@ -183,6 +184,7 @@ Native ports built from decompilation and recompilation projects.
 - [citro2d](https://github.com/devkitPro/citro2d) - 2D drawing on top of citro3d.
 - [picaGL](https://github.com/masterfeizz/picaGL) - OpenGL implementation used by many ports.
 - [LovePotion](https://github.com/lovebrew/lovepotion) - LÖVE game framework for Nintendo homebrew.
+- [OpenDSP](https://github.com/Cellenseres/OpenDSP) - Open-source DSP firmware so homebrew can play audio without dumping dspfirm.cdc.
 
 ## Community
 
@@ -190,9 +192,17 @@ Native ports built from decompilation and recompilation projects.
 - [GBAtemp](https://gbatemp.net) - Forum with release threads for most 3DS homebrew.
 - [Universal-DB on GitHub](https://github.com/Universal-Team/db) - Where homebrew gets submitted to Universal-DB.
 
+## Archived
+
+GitHub repositories that are archived but still have a downloadable release.
+
+- [Celeste Classic](https://github.com/lemon32767/ccleste) - C port of the original PICO-8 Celeste.
+- [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE) - Doki Doki Literature Club rewritten in Lua.
+- [Funkin3D](https://github.com/GuglioIsStupid/Funkin3D) - Friday Night Funkin' demake.
+
 ## AI Disclosure
 
-This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I've tried a good portion of them.
+This list was researched, curated and edited by a human, with help from AI tools. I also use AI tools and automations to help keep it up to date. I haven't run every project here, but I (or one of my kids) have tried a decent portion of them.
 
 I'm not affiliated with any of these projects. I do run [Just One More Catch!](https://justonemorecatch.app), a tracker for retro Pokémon playthroughs from Game Boy to 3DS ([source on GitHub](https://github.com/Interactive-Buffoonery/just-one-more-catch)).
 
