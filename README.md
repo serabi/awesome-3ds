@@ -142,7 +142,6 @@ Native ports built from decompilation and recompilation projects.
 - [ControlMole](https://github.com/skrimby1/controlmole-3ds) - Play time limiter with a Luma3DS plugin that pauses games at your daily limit or bedtime. A cute mole tracks your screentime and tells you to go to bed when needed.
 - [3DS-CLI](https://github.com/cmdada/3DS-CLI) - RISC-V Linux with a dual-screen terminal.
 - [NTR-HR](https://github.com/xzn/ntr-hr) - Streams the console to a PC at higher frame rates than stock NTR (New 3DS only).
-- [3Drop](https://github.com/MadeOfBees/3Drop) - Installs and launches CIA builds from a PC over Wi-Fi, and transfers files on the SD card.
 
 ## Save Management
 
@@ -186,6 +185,7 @@ Native ports built from decompilation and recompilation projects.
 - [picaGL](https://github.com/masterfeizz/picaGL) - OpenGL implementation used by many ports.
 - [LovePotion](https://github.com/lovebrew/lovepotion) - LÖVE game framework for Nintendo homebrew.
 - [OpenDSP](https://github.com/Cellenseres/OpenDSP) - Open-source DSP firmware so homebrew can play audio without dumping dspfirm.cdc.
+- [3Drop](https://github.com/MadeOfBees/3Drop) - Homebrew development-first CIA installer and launcher designed to make development on 3DSes as fast as possible.
 
 ## Community
 
