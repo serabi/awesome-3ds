@@ -185,6 +185,7 @@ Native ports built from decompilation and recompilation projects.
 - [picaGL](https://github.com/masterfeizz/picaGL) - OpenGL implementation used by many ports.
 - [LovePotion](https://github.com/lovebrew/lovepotion) - LÖVE game framework for Nintendo homebrew.
 - [OpenDSP](https://github.com/Cellenseres/OpenDSP) - Open-source DSP firmware so homebrew can play audio without dumping dspfirm.cdc.
+- [3Drop](https://github.com/MadeOfBees/3Drop) - Homebrew development-first CIA installer and launcher designed to make development on 3DSes as fast as possible.
 
 ## Community
 
